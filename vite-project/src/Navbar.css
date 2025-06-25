@@ -1,0 +1,40 @@
+
+ 
+.navbar {
+    background: linear-gradient(to right, #42116d 2%, #caa1d5 90%);
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
+  
+  .nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 25vw;
+    
+  }
+  
+  .nav-item {
+    margin-right: 60px;
+  }
+  
+  .nav-link {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .nav-link:hover {
+    text-decoration: underline;
+  }
+ .div1{
+  
+   margin-left: 5vw;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(245, 245, 245);
+ }

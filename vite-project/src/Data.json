@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "name": "Colorful bangles",
+        "price": 30,
+        "image": "https://knotknitting.com.au/cdn/shop/products/image_c6ea50f9-7bf2-4922-aa8b-39a9b34ec00b_1024x1024.jpg?v=1571717945",
+        "description": "Colorful bangles are a traditional accessory",
+        "category": "Bangles"
+    },
+    {
+        "id": 2,
+        "name": "Traditional necklace",
+        "price": 50,
+        "image": "https://loomsmith.com/cdn/shop/files/Untitled_design_-_2025-01-25T173239.758.png?v=1737806789",
+        "description": "A traditional necklace made of gold and precious stones",
+        "category": "Necklace"
+        
+    },
+    {
+        "id": 3,
+        "name": "Elegant earrings",
+        "price": 20,
+        "image": "https://images.meesho.com/images/products/56970701/7btkn_512.webp",
+        "description": "Elegant earrings that complement any outfit",
+        "category": "Earrings"
+    },
+    {
+        "id": 4,
+        "name": "Stylish bracelet",
+        "price": 25,
+        "image": "https://rukminid2.flixcart.com/image/850/1000/xif0q/wall-decoration/e/2/w/macrame-wall-decore-mirror-with-basket-16-1-macrame-wall-decore-original-imagppvxmgvgdtha.jpeg?q=90&crop=false",
+        "description": "A stylish bracelet that adds a touch of elegance",
+        "category":"Necklace"
+    },
+    {
+        "id": 5,
+        "name": "Charming ring",
+        "price": 15,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTSzcDzNYFI3d41OFkd2pzxYVzjZzrkNSfwLc-PEgW9OVR9Jxuv0Dg5B7xVtcU7zpfAnNt21vtTVXzFJ0XMINBYj_2ezVthggmK7_qiQRR8sTeFttqPVB3u",
+        "description": "A charming ring that makes a statement"
+    },
+    {
+        "id": 6,
+        "name": "Beautiful pendant",
+        "price": 40,
+        "image": "https://d35l77wxi0xou3.cloudfront.net/opencart/image/productFromFeb2020/1639556229-600x600.png",
+        "description": "A beautiful pendant that adds charm to any outfit"
+    },
+    {
+        "id": 7,
+        "name": "Fashionable watch",
+        "price": 100,
+        "image": "https://storage.googleapis.com/gcs.madebymums.co/2022/01/6177c776-macandcraftwhyknot-img_20220111_184028-600x600.jpg",
+        "description": "A fashionable watch that combines style and functionality"
+    },
+    {
+        "id": 8,
+        "name": "Trendy hairpin",
+        "price": 10,
+        "image": "https://5.imimg.com/data5/ANDROID/Default/2023/4/297787277/CN/XF/RB/86742520/product-jpeg-500x500.jpg",
+        "description": "A trendy hairpin that adds flair to your hairstyle"
+    },
+    {
+        "id": 9,
+        "name": "Classic brooch",
+        "price": 35,
+        "image": "https://m.media-amazon.com/images/I/61tDnR3KYKL._AC_UF894,1000_QL80_.jpg",
+        "description": "A classic brooch that enhances your outfit"
+    },
+    {
+        "id": 10,
+        "name": "Unique anklet",
+        "price": 45,
+        "image": "https://img.indiahandmade.com/catalog/product/cache/dee0bc41489afb86ae85561eae1bc64e/f/r/fruit_cover_0011.jpg",
+        "description": "A unique anklet that adds a touch of elegance to your feet"
+    },
+    {
+        "id": 11,
+        "name": "Stylish cufflinks",
+        "price": 60,
+        "image": "https://images.meesho.com/images/products/199404883/nn04c_512.webp",
+        "description": "Stylish cufflinks that add a touch of sophistication to your outfit"
+    },
+    {
+        "id": 12,
+        "name": "Chic hairband",
+        "price": 12,
+        "image": "https://images.meesho.com/images/products/378559903/dgmzs_512.webp",
+        "description": "A chic hairband that keeps your hair in place"
+    },
+    {
+        "id": 13,
+        "name": "Elegant tiara",
+        "price": 70,
+        "image": "https://fcity.in/images/products/9037079/ec349_512.jpg",
+        "description": "An elegant tiara that adds a royal touch to your look"
+    },
+    {
+        "id": 14,
+        "name": "Vintage locket",
+        "price": 55,
+        "image": "https://5.imimg.com/data5/TN/HT/KB/ANDROID-55928956/product-jpeg.png",
+        "description": "A vintage locket that holds cherished memories"
+    },
+    {
+        "id": 15,
+        "name": "Artistic brooch",
+        "price": 75,
+        "image": "https://i.etsystatic.com/14077730/r/il/a12a98/1847402657/il_570xN.1847402657_3yyy.jpg",
+        "description": "An artistic brooch that showcases your unique style"
+    },
+    {
+        "id": 16,
+        "name": "Handcrafted earrings",
+        "price": 20,
+        "image":"https://ritikacraft.in/wp-content/uploads/2021/07/IMG_20210131_085302.jpg",
+        "description": "Handcrafted earrings that reflect your individuality"
+    },
+    {
+        "id": 17,
+        "name": "Bohemian necklace",
+        "price": 30,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA2VsLnp-HW2Dl6CaLUMkoIJFMZZpzcbgRFQ&s",
+        "description": "A bohemian necklace that adds a free-spirited vibe to your outfit"
+    },
+    {
+        "id": 18,
+        "name": "Glamorous ring",
+        "price": 80,
+        "image": "https://i.etsystatic.com/6757796/r/il/67869c/5562736880/il_fullxfull.5562736880_agpr.jpg",
+        "description": "A glamorous ring that makes a bold statement"
+    },
+    {
+        "id": 19,
+        "name": "Delicate anklet",
+        "price": 25,
+        "image":"https://i.pinimg.com/736x/65/d9/d0/65d9d05b8dccf369d39bdcdd786799ac.jpg",
+        "description": "A delicate anklet that adds a touch of femininity"
+    },
+    {
+        "id": 20,
+        "name": "Modern bracelet",
+        "price": 45,
+        "image": "https://cdn.shopify.com/s/files/1/0270/1957/2024/products/IMG_20230523_153028_2.jpg?v=1684836483",
+        "description": "A modern bracelet that complements your contemporary style"
+    }
+]
